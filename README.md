@@ -12,3 +12,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with cybersecurity
 - 💬 Ask me about anything
 -->
+
+![My Picture](Azteca.webp)
+
